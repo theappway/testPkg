@@ -1,0 +1,22 @@
+{
+  "name": "testpkg",
+  "version": "1.0.0",
+  "description": "just a test package for appway",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theappway/testPkg.git"
+  },
+  "keywords": [
+    "appway"
+  ],
+  "author": "oraveugle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theappway/testPkg/issues"
+  },
+  "homepage": "https://github.com/theappway/testPkg#readme"
+}
